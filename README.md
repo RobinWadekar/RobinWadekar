@@ -1,5 +1,5 @@
 # 💫 About Me:
-Highly motivated aspiring Java Full Stack Developer with a solid foundation in Core Java, Data Structures & <br>Algorithms, and modern development practices. Expertise in building robust backend services using Spring, Spring <br>Boot, and REST APIs, coupled with proficiency in SQL for data management and React for front-end interface <br>development. Known for strong problem-solving skills, excellent communication, and a results-driven mindset ready <br>to contribute to innovative software solutions.
+Highly motivated aspiring Java Full Stack Developer with a solid foundation in Core Java, Data Structures & <br>Algorithms, and modern development practices. Expertise in building robust backend services using Spring, Spring <br>Boot, and REST APIs, coupled with proficiency in SQL for data management and React for front-end interface <br>development. Known for strong problem-solving skills, excellent communication, and a result-driven mindset ready <br>to contribute to innovative software solutions.
 
 
 ## 🌐 Socials:
